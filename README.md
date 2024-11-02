@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @cybs3c
-- 👀 I’m interested in Cyber Security
 <img src="https://tryhackme-badges.s3.amazonaws.com/alpereneken.png" alt="TryHackMe">
 
 <!---
